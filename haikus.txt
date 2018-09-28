@@ -2,3 +2,4 @@ Haiku 1:
 This is a haiku
 Is it really a haiku
 Yes it's a haiku
+Haiku 2:
